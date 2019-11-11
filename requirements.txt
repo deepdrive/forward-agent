@@ -1,1 +1,1 @@
-deepdrive-api
+deepdrive-api>=3.0.20190923222443
